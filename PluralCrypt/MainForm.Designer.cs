@@ -459,7 +459,7 @@
 			this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
 			this.KeyPreview = true;
 			this.Margin = new System.Windows.Forms.Padding(6, 7, 6, 7);
-			this.MaximizeBox = false;
+			//this.MaximizeBox = false;
 			this.Name = "MainForm";
 			this.Text = "PluralCrypt";
 			this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.MainForm_FormClosing);
